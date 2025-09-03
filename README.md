@@ -29,12 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Prachi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prachigehlot07&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prachigehlot07&layout=compact&theme=tokyonight)
-
----
 
 
 
